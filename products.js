@@ -5,7 +5,7 @@ initStore([
     description: 'Open-World-RPG mit der Phantom Liberty Erweiterung inklusive.',
     price: 79.99,
     discountPrice: 59.99,
-    image: 'img/service-1.jpg',
+    image: 'img/game-1.jpg',
   },
   {
     id: 1,
@@ -13,7 +13,7 @@ initStore([
     description: 'Enthält GTA V Story-Modus und GTA Online mit PS5-Verbesserungen.',
     price: 49.99,
     discountPrice: 29.99,
-    image: 'img/service-2.jpg',
+    image: 'img/game-2.jpg',
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ initStore([
     description: 'Spionage-Thriller Erweiterung für Cyberpunk 2077.',
     price: 39.99,
     discountPrice: 34.99,
-    image: 'img/service-3.jpg',
+    image: 'img/game-3.jpg',
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ initStore([
     description: 'Die neueste Fußballsimulation mit neuen Ligen und Mechaniken.',
     price: 69.99,
     discountPrice: 59.99,
-    image: 'img/service-4.jpg',
+    image: 'img/game-4.jpg',
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ initStore([
     description: 'Neu aufgelegte Version des gefeierten Abenteuers in postapokalyptischer Welt.',
     price: 79.99,
     discountPrice: 49.99,
-    image: 'img/service-5.jpg',
+    image: 'img/game-5.jpg',
   },
   {
     id: 5,
@@ -45,6 +45,6 @@ initStore([
     description: 'Magisches Action-RPG im Harry-Potter-Universum mit offener Welt.',
     price: 69.99,
     discountPrice: 54.99,
-    image: 'img/service-6.jpg',
+    image: 'img/game-6.jpg',
   },
 ]);

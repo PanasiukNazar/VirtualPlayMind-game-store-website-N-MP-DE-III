@@ -9782,3 +9782,7 @@ header h2 {
     background-color: #FFD333;
     color: #fff;
 }
+
+.favorite img {
+  width: 100%;
+}
